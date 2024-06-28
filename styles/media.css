@@ -77,6 +77,11 @@
   .info {
     width: 750px;
   }
+  .info-img img {
+    width: 314px;
+    height: 314px;
+    border: 3px solid var(--blue-color);
+  }
   .advantages .advantages-wrapper {
     width: 750px;
   }
@@ -237,6 +242,12 @@
     text-align: center;
     width: 300px;
   }
+  .first-screen-text-header {
+    font-size: 93px;
+  }
+  .first-screen-text .first-screen-buttons .first-screen-text-button a .buy-now {
+    font-size: 12px;
+  }
   .first-screen-img img {
     width: 280px;
     height: 280px;
@@ -250,6 +261,9 @@
     height: 200px;
     border: 3px solid var(--blue-color);
   }
+  .info-text-header {
+    font-size: 93px;
+  }
   .advantages .advantages-wrapper {
     width: 300px;
   }
@@ -259,6 +273,9 @@
   }
   .gallery {
     width: 300px;
+  }
+  .gallery-header {
+    font-size: 93px;
   }
   .gallery-images {
     width: 300px;
