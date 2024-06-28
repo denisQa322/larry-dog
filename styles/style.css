@@ -71,7 +71,7 @@ header .header-button a {
   display: flex;
   gap: 10px;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 .first-screen-text .first-screen-buttons .first-screen-text-button {
   margin-bottom: 15px;
@@ -120,7 +120,7 @@ header .header-button a {
   position: absolute;
   left: -2px;
   top: -10px;
-  background: #ffffff;
+  background: #fbf8f6;
   background-size: 400%;
   width: 100%;
   height: calc(100% + 20px);
@@ -271,4 +271,4 @@ footer .footer-wrapper .footer-bottom .footer-socials .social a img {
   border-radius: 15px;
   border: 1px solid #d7bba0;
   padding: 5px;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
