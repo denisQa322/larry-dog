@@ -69,6 +69,9 @@
   .first-screen {
     width: 750px;
   }
+  .first-screen-text-header {
+    font-size: 85px;
+  }
   .first-screen-img img {
     width: 305px;
     height: 305px;
@@ -199,6 +202,9 @@
     text-align: center;
     width: 355px;
   }
+  .first-screen-text-header {
+    font-size: 70px;
+  }
   .first-screen-img img {
     width: 335px;
     height: 335px;
@@ -212,6 +218,9 @@
     height: 240px;
     border: 3px solid var(--blue-color);
   }
+  .info-text-header {
+    font-size: 70px;
+  }
   .advantages .advantages-wrapper {
     width: 355px;
   }
@@ -221,6 +230,9 @@
   }
   .gallery {
     width: 355px;
+  }
+  .gallery-header {
+    font-size: 70px;
   }
   .gallery-images {
     width: 355px;
@@ -242,9 +254,6 @@
     text-align: center;
     width: 300px;
   }
-  .first-screen-text-header {
-    font-size: 93px;
-  }
   .first-screen-text .first-screen-buttons .first-screen-text-button a .buy-now {
     font-size: 12px;
   }
@@ -261,9 +270,6 @@
     height: 200px;
     border: 3px solid var(--blue-color);
   }
-  .info-text-header {
-    font-size: 93px;
-  }
   .advantages .advantages-wrapper {
     width: 300px;
   }
@@ -273,9 +279,6 @@
   }
   .gallery {
     width: 300px;
-  }
-  .gallery-header {
-    font-size: 93px;
   }
   .gallery-images {
     width: 300px;
