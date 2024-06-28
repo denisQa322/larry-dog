@@ -241,6 +241,10 @@ header {
     }
   }
 }
+
+.carousel {
+  display: none;
+}
 footer {
   background-color: var(--blue-color);
   .footer-wrapper {

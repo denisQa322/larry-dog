@@ -221,6 +221,10 @@ header .header-button a {
   height: 300px;
 }
 
+.carousel {
+  display: none;
+}
+
 footer {
   background-color: var(--blue-color);
 }

@@ -170,24 +170,21 @@
     height: 90px;
   }
   .gallery {
-    width: 420px;
+    width: 375px;
   }
   .gallery-header {
-    font-size: 100px;
+    font-size: 93px;
   }
   .gallery-text {
     font-size: 25px;
     margin-bottom: 20px;
   }
   .gallery-images {
-    padding-bottom: 20px;
-    width: 420px;
-    display: flex;
-    flex-direction: column;
+    display: none;
   }
-  .gallery-images .image img {
-    width: 375px;
-    height: 375px;
+  .gallery .carousel {
+    display: block;
+    margin-bottom: 15px;
   }
   footer .footer-wrapper {
     width: 420px;
